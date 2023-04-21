@@ -4,6 +4,9 @@ print(mi_variable)
 mi_variable2 = 'dario'
 print(mi_variable2)
 
+mi_variable3 = 'daniel'
+print(mi_variable3)
+
 mi_complejo = 5 + 7j
 print(mi_complejo)
 
